@@ -45,10 +45,6 @@ Webhook → Make.com → Gemini AI → Cover Letter Generation → Notion
 * Centralized application storage
 * No-code automation
 
-## Demo
-
-Paste your Loom demo link here
-
 ## Blueprint
 
 Included in this repository.
